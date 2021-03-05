@@ -1,0 +1,42 @@
+.nav-wrapper
+{
+  width: 100%;
+  background: gold;
+  padding: 5px;
+  font-size: 30px;
+  text-align: center; 
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+.ImageOnLeft
+{
+  margin-top: 6%;
+}
+.AboutUs
+{
+  margin-top: 6%;
+}
+.ImageOnRight
+{
+  margin-top: 6%;
+}
+.carousel
+{
+  margin-top: 6%;
+}
+.ContactUs
+{
+  margin-top: 6%;
+  margin-bottom: 6%;
+}
+.container
+{
+  font-family: 'Times New Roman', Times, serif;
+}
+.contact-table
+{
+  border-style: solid;
+  width:30%;
+  height: 225px;
+  font-family: 'Times New Roman', Times, serif;
+}
